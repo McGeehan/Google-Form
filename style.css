@@ -1,0 +1,10 @@
+body {
+background-color: #e6f2ff;
+font-family: Helvetica;
+display: block;
+width: 250px;
+}
+
+.jfk-button jfk-button-action {
+background-color: yellow;
+}
